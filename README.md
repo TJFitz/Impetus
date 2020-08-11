@@ -1,7 +1,7 @@
 # Project_One
-Link: https://github.com/TJFitz/Project_One
+Link: https://github.com/TJFitz/Impetus
 
-Deployment: https://tjfitz.github.io/Project_One/
+Deployment: https://tjfitz.github.io/Impetus/
 
 ​
 Screenshots: 
